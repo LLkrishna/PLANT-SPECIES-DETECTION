@@ -27,6 +27,9 @@ A Streamlit web application allows users to upload leaf images and get predictio
 ## Results
 The model achieved an accuracy of 98.18% on the test dataset. Precision, recall, and F1-scores are consistently high across all classes, indicating the model's reliability and effectiveness in classifying plant species.
 
+![Model performance](https://github.com/LLkrishna/PLANT-SPECIES-DETECTION/assets/130060978/149156f2-bccb-40ae-91ec-582f0fb659dd)
+
+
 ## Future Work
 - Expand the dataset to include more plant species.
 - Fine-tune the model using newer architectures beyond VGG16.
