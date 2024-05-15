@@ -13,6 +13,7 @@ The relationship between plants and the environment is complex and multifaceted.
 
 ## Dataset
 The dataset comprises images of leaves from twelve economically and environmentally significant plant species. Each species has images of both healthy and diseased leaves. The dataset includes a total of 4503 images, with 2278 healthy and 2225 diseased leaves.I have used the healthy leaves for this project.
+(https://data.mendeley.com/datasets/hb74ynkjcn/1)
 
 ## Model Training
 The model uses the VGG16 architecture with transfer learning. The pre-trained VGG16 model is fine-tuned on the leaf image dataset. Key steps include:
